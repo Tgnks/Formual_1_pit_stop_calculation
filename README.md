@@ -5,8 +5,8 @@ This is a personal project which i decided to work on during my summer break Cur
 In this program i will be ignoring the relation between tyre wear and lap time to keep it easier in start
 ✅ Experiment Tracking
 
-  import mlflow
-  import mlflow.sklearn
+    import mlflow
+    import mlflow.sklearn
   
   Used for tracking experiments, logging models, parameters, and metrics.
 
